@@ -1,0 +1,17 @@
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\Bagels.exe
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\Bagels.deps.json
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\Bagels.runtimeconfig.json
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\Bagels.dll
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\ref\Bagels.dll
+C:\Users\ugraz\source\repos\Bagels\Bagels\bin\Debug\net6.0-windows\Bagels.pdb
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.csproj.AssemblyReference.cache
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.Form1.resources
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.csproj.GenerateResource.cache
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.AssemblyInfoInputs.cache
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.AssemblyInfo.cs
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.csproj.CoreCompileInputs.cache
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.dll
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\ref\Bagels.dll
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.pdb
+C:\Users\ugraz\source\repos\Bagels\Bagels\obj\Debug\net6.0-windows\Bagels.genruntimeconfig.cache
