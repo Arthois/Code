@@ -31,4 +31,4 @@
 # Some simple C# code. Best if used for refference understanding some concepts of windows forms applications. Application is not made to look good but just to be working.
 
 # BASH - BASH scripting
-# A cosole based application for Linux based systems automating simple administrative tasks.
+# A console based application for Linux based systems automating simple administrative tasks.
