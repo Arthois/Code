@@ -1,0 +1,17 @@
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.AssemblyReference.cache
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.Form1.resources
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.GenerateResource.cache
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfoInputs.cache
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.AssemblyInfo.cs
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.csproj.CoreCompileInputs.cache
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.exe
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.deps.json
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.runtimeconfig.json
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.dll
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\ref\BookShop.dll
+C:\Users\ugraz\source\repos\BookShop\BookShop\bin\Debug\net6.0-windows\BookShop.pdb
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.dll
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\ref\BookShop.dll
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.pdb
+C:\Users\ugraz\source\repos\BookShop\BookShop\obj\Debug\net6.0-windows\BookShop.genruntimeconfig.cache
