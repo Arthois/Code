@@ -12,6 +12,9 @@
 
 # "Rental" - C# Code
 # This is more of an intermediate level C# code.
+# Most of the windows forms code for the design and looks is auto generated.
+# Manually written code is in:
+# Customer.cs // Form1.cs // Form2.cs // Form3.cs // Form4.cs
 # Windows Forms application which can be used for a rental buissines to help manage adding clients to the system with all of the entered client info.
 # Does all the calculations according to the prices shown in the program taking in consideration the days required for the rental, car type, fuel type, any extra options.
 # Allows the user to double check all of the information before commiting to add the order to system.
