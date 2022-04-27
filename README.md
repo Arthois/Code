@@ -14,7 +14,18 @@
 # Windows Forms application which can be used for a rental buissines to help manage adding clients to the system with all of the entered client info.
 # Does all the calculations according to the prices shown in the program taking in consideration the days required for the rental, car type, fuel type, any extra options.
 # Allows the user to double check all of the information before commiting to add the order to system.
-# This version of the program uses a .TXT file to save all of fthe order info but in can be easily modified to connect to a database and store all of the client order data.
+# Includes a login page allowing that checks the 
+# This version of the program uses a .TXT file to save all of the order info but in can be easily modified to connect to a database and store all of the client order data.
+# The CREDENTIALS.TXT ideally should be stored in a secure database using atleast SHA-256 encryption and not be stored clear text in a text file as it is now. This is only done so as a proof of concept!
 
 # "Bagels" - C# Code
-# Some simple code just for demonstrational purposes which someone might find useful
+# Some simple C# code just for demonstrational purposes which someone might find useful. Application is not made to look good but just to be working.
+
+# "BankAccount" - C# Code
+# Some simple C# code showing simple calculations, allowing the user a bit more advanced functionality. Application is not made to look good but just to be working.
+
+# "Flights" - C# Code
+# Some simple C# code showing how someone can read information from a .txt file and display it in their application. Application is not made to look good but just to be working.
+
+# "BookShop" - C# Code
+# Some simple C# code. Best if used for refference understanding some concepts of windows forms applications. Application is not made to look good but just to be working.
