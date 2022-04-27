@@ -10,6 +10,8 @@
 # Although it works fine and might be fine for some users i would recommend using this code just as a refference for understanding some concepts of PHP and serverside scripting 
 
 
+# C# code is written using visual studio 2022 using the .NET 6.0 Framework and is not backwards compatible to my knowledge. So to run and debug the applications in visual studio will require the user to open the .sin files in Visual Studio 2022.
+
 # "Rental" - C# Code
 # This is more of an intermediate level C# code.
 # Most of the windows forms code for the design and looks is auto generated.
