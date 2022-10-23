@@ -27,11 +27,6 @@
 
 # ////////////////////////////////////////////////////////////////////////////
 
-# "Assesment" 2 - C# Code
-# A C# WinForm application allowing the user to book a car rental for simplicity using a .txt file to store all current bookings. The application includes a LogIn screen allowing only authorised access. After that the user is welcomed and a new window opens with all the current bookings as well as a form to fill out to add a new booking with all the relevant customer information. In the end displaying the summary for the booking with all the information added before so it can be confirmed before adding to the system.
-
-# ////////////////////////////////////////////////////////////////////////////
-
 # "Bagels" - C# Code
 # Some simple C# code just for demonstrational purposes which someone might find useful. Application is not made to look good but just to be working.
 
