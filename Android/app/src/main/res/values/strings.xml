@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Android.Assessment</string>
+    <string name="App_Name">SuitCase</string>
+    <string name="button1">Log In</string>
+    <string name="button2">Sign Up</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="user_name">Enter User Name</string>
+    <string name="password">Password</string>
+    <string name="manage_item">Manage Items</string>
+    <string name="create_item">Create Item</string>
+    <string name="item_delegation">Item Delegation</string>
+    <string name="log_out">Log Out</string>
+    <string name="item_name">Enter Item Name</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete_item">Delete</string>
+    <string name="edit_item">Edit</string>
+    <string name="mark_purchased">Mark As Purchased</string>
+    <string name="item_list">Item List</string>
+    <string name="remove_item">Delete</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="back_button">Back</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="send_sms">Send as SMS</string>
+    <string name="item_price">Item Price: </string>
+    <string name="item_desc">Item Description: </string>
+</resources>
